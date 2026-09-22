@@ -16,8 +16,8 @@ app = FastAPI(title="Kobra AI Backend Engine")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://localhost:3000",
-        "https://getkobraai.com",
+        "https://wwww.localhost:3000",
+        "https://wwww.getkobraai.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
