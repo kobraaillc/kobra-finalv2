@@ -4,5 +4,11 @@
   },
   "dependencies": {
     "optional": "^0.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
   }
 }
